@@ -3,7 +3,7 @@
 An end-to-end AI pipeline that searches YouTube, downloads audio, transcribes speech with Whisper, and summarizes diabetes-friendly cooking content with an LLM.
 
 ## Why this project matters
-This repository demonstrates practical Generative AI engineering skills that recruiters can review quickly: model integration, agent workflows, prompt engineering, data preprocessing, tool use, and reproducible notebook-based experimentation.
+This repository demonstrates practical Generative AI engineering skills: model integration, agent workflows, prompt engineering, data preprocessing, tool use, and reproducible notebook-based experimentation.
 
 ## Skills shown
 - YouTube search and audio extraction with yt-dlp
